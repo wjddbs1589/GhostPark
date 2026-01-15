@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efec367b91a5947489590c223076219b, type: 3}
+  m_Name: Ghost Data
+  m_EditorClassIdentifier: 
+  CommonInfos:
+  - name: "\uB291\uB300\uC778\uAC04"
+    ghostType: 0
+    rareSprite: {fileID: 21300000, guid: 7e8c7cb1629a4e74186c960e5322a90b, type: 3}
+    ghostImage: {fileID: 21300000, guid: 02e5d6bf02c1acc45bcf02621cc147ed, type: 3}
+    UnknownImage: {fileID: 21300000, guid: bc9bb3d9f77d2634fa90324fc25a1d0c, type: 3}
+    infoSprite: {fileID: 21300000, guid: 87b3ff28a24949d4f97a7d2af2e05011, type: 3}
+    isFound: 0
+  - name: "\uC11C\uD050\uBC84\uC2A4"
+    ghostType: 0
+    rareSprite: {fileID: 21300000, guid: 7e8c7cb1629a4e74186c960e5322a90b, type: 3}
+    ghostImage: {fileID: 21300000, guid: 3a52f37b5af9a4d41b57b82ba00cced7, type: 3}
+    UnknownImage: {fileID: 21300000, guid: 2f9229ef0538cba4dbc4844aa943db15, type: 3}
+    infoSprite: {fileID: 21300000, guid: 1fa2d4b27ea8a7a43972b39053ff9ffd, type: 3}
+    isFound: 0
+  - name: "\uD504\uB791\uCF04\uC288\uD0C0\uC778"
+    ghostType: 0
+    rareSprite: {fileID: 21300000, guid: 7e8c7cb1629a4e74186c960e5322a90b, type: 3}
+    ghostImage: {fileID: 21300000, guid: cbac637b6a2a5ca4f903850cc8ffa6f9, type: 3}
+    UnknownImage: {fileID: 21300000, guid: 70f4eb8ab67a03146ad2d36b4592983e, type: 3}
+    infoSprite: {fileID: 21300000, guid: ab2e40a1140d1a2438bab2ef59bcdcd8, type: 3}
+    isFound: 0
+  - name: "\uC2AC\uB80C\uB354\uB9E8"
+    ghostType: 0
+    rareSprite: {fileID: 21300000, guid: 7e8c7cb1629a4e74186c960e5322a90b, type: 3}
+    ghostImage: {fileID: 21300000, guid: 1bcdab7971864084799ac717b8ead36a, type: 3}
+    UnknownImage: {fileID: 21300000, guid: 6cf86d44c5f6e834baea4f968a7c897d, type: 3}
+    infoSprite: {fileID: 21300000, guid: 26bb2c272016ded459f79034d88e2fb3, type: 3}
+    isFound: 0
+  - name: "\uAC15\uC2DC"
+    ghostType: 0
+    rareSprite: {fileID: 21300000, guid: 7e8c7cb1629a4e74186c960e5322a90b, type: 3}
+    ghostImage: {fileID: 21300000, guid: 2723b69a4a5e27540a8960f9896becfb, type: 3}
+    UnknownImage: {fileID: 21300000, guid: 145554c08c871dc4180b631218776ee4, type: 3}
+    infoSprite: {fileID: 21300000, guid: 1450b2f701e1d3b41beb526b13470de1, type: 3}
+    isFound: 0
+  - name: "\uC880\uBE44"
+    ghostType: 0
+    rareSprite: {fileID: 21300000, guid: 7e8c7cb1629a4e74186c960e5322a90b, type: 3}
+    ghostImage: {fileID: 21300000, guid: 1158a09b97a6e3d419a0b51b177b4c42, type: 3}
+    UnknownImage: {fileID: 21300000, guid: 97df699c9b5320c4d8a7085fd0dca4b9, type: 3}
+    infoSprite: {fileID: 21300000, guid: 0955bf6f31876b44787c158dabf125fb, type: 3}
+    isFound: 0
+  - name: "\uC7AD\uC624\uB79C\uD134"
+    ghostType: 0
+    rareSprite: {fileID: 21300000, guid: 7e8c7cb1629a4e74186c960e5322a90b, type: 3}
+    ghostImage: {fileID: 21300000, guid: 80c3de369e19d334dbfe477bf5bb7adf, type: 3}
+    UnknownImage: {fileID: 21300000, guid: ff07dec8ed46e89438271ba4c2793494, type: 3}
+    infoSprite: {fileID: 21300000, guid: 5017a5a90a5f474489ea248cb8436885, type: 3}
+    isFound: 0
+  RareInfos:
+  - name: "\uAD6C\uBBF8\uD638"
+    ghostType: 1
+    rareSprite: {fileID: 21300000, guid: 6f75bf2f3412b604182c760f3f1bb3a7, type: 3}
+    ghostImage: {fileID: 21300000, guid: e50d52a0961aacb41a6986684ab860e9, type: 3}
+    UnknownImage: {fileID: 21300000, guid: ecfa7ce843ad7d4439fae551f609a6fd, type: 3}
+    infoSprite: {fileID: 21300000, guid: ebc478452a5450e4982ccfa94ec2b524, type: 3}
+    isFound: 0
+  - name: "\uC624\uB2C8"
+    ghostType: 1
+    rareSprite: {fileID: 21300000, guid: 6f75bf2f3412b604182c760f3f1bb3a7, type: 3}
+    ghostImage: {fileID: 21300000, guid: 1fdbc493b6d6066479e32b3d022257c7, type: 3}
+    UnknownImage: {fileID: 21300000, guid: f1da1d856837dd040950ceaf31229007, type: 3}
+    infoSprite: {fileID: 21300000, guid: 9af0d1f9c1c32b346aecdcf3ae5d0a52, type: 3}
+    isFound: 0
+  LegendaryInfos:
+  - name: "\uBC40\uD30C\uC774\uC5B4"
+    ghostType: 2
+    rareSprite: {fileID: 21300000, guid: 8efbaa9c47ad7c045a1b7a2e138a5903, type: 3}
+    ghostImage: {fileID: 21300000, guid: 5f114773b077377408b26a933a4226f0, type: 3}
+    UnknownImage: {fileID: 21300000, guid: 07ac4a7e24926d04681f67eedec58f19, type: 3}
+    infoSprite: {fileID: 21300000, guid: a1d6453b2fc786649b67db8c8f36448b, type: 3}
+    isFound: 0
+  Background: {fileID: 21300000, guid: a24febcbf648cd64c9e42920f9bce3cc, type: 3}
+  Background_Unknown: {fileID: 21300000, guid: 4d2d83d2c0c75e34ca1b3e7d9b85722f, type: 3}
